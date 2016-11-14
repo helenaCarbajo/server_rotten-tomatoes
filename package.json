@@ -1,0 +1,35 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "first exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"do build stuff\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenaCarbajo/server_rotten-tomatoes.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "exercise1"
+  ],
+  "author": "Helena Carbajo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenaCarbajo/server_rotten-tomatoes/issues"
+  },
+  "homepage": "https://github.com/helenaCarbajo/server_rotten-tomatoes#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "co": "^4.6.0",
+    "fs-promise": "^1.0.0",
+    "request": "^2.78.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}

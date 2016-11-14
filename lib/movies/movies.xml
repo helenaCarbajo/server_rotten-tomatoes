@@ -1,0 +1,11 @@
+--2016-11-12 08:13:48--  https://raw.githubusercontent.com/CS-LNU-Learning-Objects/the-node-platform-exercise-rotten-tomatoes/master/movies.xml
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.84.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.84.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 769 [text/plain]
+Saving to: `movies.xml.1'
+
+     0K                                                       100%  105M=0s
+
+2016-11-12 08:13:48 (105 MB/s) - `movies.xml.1' saved [769/769]
+
